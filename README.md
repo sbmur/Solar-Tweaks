@@ -5,3 +5,5 @@ Language: Python
 NOTE: Takes 5 seconds to startup dont be alarmed
 
 Version: 1.0 - early access
+
+Features: PC Tweaks, crosshair overlay, hardware monitor, fun tab, uninstaller, startup manager and a customizable UI
